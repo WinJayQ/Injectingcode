@@ -25,7 +25,7 @@ dylb会加载Frameworks中所有的动态库，那么在Frameworks中加一个�
 ![image.png](https://upload-images.jianshu.io/upload_images/1013424-3a45631e72661e10.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ##步骤：
-###1、新建Framework
+###1、根据[iOS逆向之自动化重签名](https://www.jianshu.com/p/30c1059879aa)先编译运行微信，然后新建Framework
 TARGETS添加：
 ![image.png](https://upload-images.jianshu.io/upload_images/1013424-5b58e339a4d28335.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/1013424-0403308f4dd9fada.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
